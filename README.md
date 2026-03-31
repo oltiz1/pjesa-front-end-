@@ -1,4 +1,4 @@
 Pjesa front-end
 
 Software:
-1. Laravel
+https://laravel.com/
