@@ -1,6 +1,10 @@
 Pjesa front-end
+
+Projekti shkollor per Master Shkencor "Shkenca Kompjuterike te Aplikuara", viti 2025-2026, semestri dyte, 
+(lenda "Programim i avancuar ne web")
+Grupi 4
 _____________________________________________________________________________________________________________________________________________
-Software:
+Tech stack:
 
 REACT 
 
